@@ -12,3 +12,6 @@ We have reframed the objectives of the problem statement as below:
 - Identify drivers of energy consumption
 - Recommend options for reducing consumption and optimizing utilization
 - Build a Machine Learning model for predicting energy consumption
+
+To solve this problem, we have made use of domain knowedge related to thermophysical properties of air, psychrometric charts, and earth science knowledge.
+From our analysis, it was clear to us that the building was situated in the Northern Hemisphere, with high levels of winter preciptation and dry summers. Based the geography of the building, we have also provided recommendations for reducing consumption, retrofitting measures and ppassive heating and humidification options. We have suggested these options based on sound architectural and thermodynamic systems principles.
