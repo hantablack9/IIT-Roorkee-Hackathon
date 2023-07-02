@@ -1,7 +1,7 @@
-# IIT Roorkee & TimesPro: ML Hackathon, 17 &amp; 18 Jun, 2023.
+# IIT Roorkee & TimesPro: ML Hackathon, 17 &amp; 18 Jun, 2023
 ## Winning submisssion
 
->- Files and Notebooks, Certificate, [Medium Blog](https://medium.com/@hanishpaturi/household-appliance-energy-usage-prediction-eda-and-advanced-regression-modeling-with-pandas-6f12836df0ee) about our approach, business understanding and workflow.
+> Files and Notebooks, Certificate, [Medium Blog](https://medium.com/@hanishpaturi/household-appliance-energy-usage-prediction-eda-and-advanced-regression-modeling-with-pandas-6f12836df0ee) about our approach, business understanding and workflow.
 
 The data is collected using sensors, installed within various rooms of a building to capture internal temperature and humidity conditions, at 10 minute intervals. Atmospheric weather conditions, which were recorded in the same intervals at a nearby weather station, are available as well.
 
